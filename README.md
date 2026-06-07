@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo prever o valor mediano de imóveis na Califórnia utilizando técnicas de Machine Learning. O preço de uma residência é influenciado por diversos fatores, incluindo renda da população local, características habitacionais e localização geográfica. Além da construção de modelos preditivos, o estudo investiga como informações espaciais podem ser incorporadas ao processo de modelagem através da criação de clusters geográficos.
 
-3## 🎯 Objetivo
+### 🎯 Objetivo
 
 Desenvolver modelos de regressão capazes de prever o valor mediano dos imóveis da Califórnia a partir de variáveis socioeconômicas, habitacionais e geográficas.
 
