@@ -116,6 +116,7 @@ O desempenho superior do LightGBM sugere que a relação entre os atributos expl
 ### 📂 Estrutura do Repositório
 
 ├── california_housing.ipynb
+
 ├── California_Housing_Spatial_ML.pdf
 
 Arquivos
